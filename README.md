@@ -63,10 +63,10 @@ Transactions in this block:
 
 Mining Performance Metrics for Block 0:
 ------------------------------------
-Kernel execution time: 114.46 ms
-Throughput: 16.38 GB/s
+Kernel execution time: 60.46 ms
+Throughput: 30.53 GB/s
 Total Hashes Calculated: 10485760
-Hash Rate: 91612001.20 hashes/sec
+Hash Rate: 172612001.20 hashes/sec
 Average power: 8.77 W
 
 Block 0 Mined Successfully!
